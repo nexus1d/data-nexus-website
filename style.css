@@ -294,7 +294,10 @@ h1 span{
     font-size:20px;
 
 }
-
+#services {
+    position: relative;
+    z-index: 1;
+}
 .services-grid{
 
     display:grid;
@@ -997,7 +1000,7 @@ footer p{
     .testimonial-card {
         padding: 30px 25px;
     }
-    
+
 
     /* Contact */
 
